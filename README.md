@@ -39,6 +39,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
 </div>
 
+---
+
+### 🔥 My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaximStovba&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **MaximStovba/MaximStovba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
