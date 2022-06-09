@@ -1,7 +1,8 @@
+<div align="center">
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=MaximStovba&color=brightgreen)
 
-<div align="center">
+
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
 </div>
 
