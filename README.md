@@ -1,4 +1,6 @@
-<img src="https://komarev.com/ghpvc/?username=MaximStovba&style=flat-square&color=brightgreen" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MaximStovba&style=flat-square&color=brightgreen" alt=""/>
+</div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
 </div>
